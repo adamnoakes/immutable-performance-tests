@@ -1,0 +1,15 @@
+{
+  "name": "immutable-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "performance-now": "^2.1.0"
+  }
+}
