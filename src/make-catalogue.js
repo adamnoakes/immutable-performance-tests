@@ -1,5 +1,5 @@
 const assert = require('assert');
-const catalogue = require('./test-data/catalogue.json');
+const catalogue = require('../test-data/catalogue.json');
 const immutable = require('immutable');
 
 module.exports = {
